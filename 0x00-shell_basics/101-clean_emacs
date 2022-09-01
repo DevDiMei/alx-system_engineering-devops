@@ -1,2 +1,2 @@
 #!/bin/bash
-rm*~ 
+rm 11-lists~ 12-file_type~ 3-listfiles~ 6-firstdirectory~ 7-movethatfile~ 8-firstdelete~
